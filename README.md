@@ -1,4 +1,8 @@
-# 
+# hooka
+
+This project is still under development.
+
+These are the tools this project uses.
 
    - dotenv
    - winston
@@ -12,8 +16,3 @@
    - express-http-codes
 
 
-
-# Read this file
-# Read this file
-# Read this file
-# Read this file
